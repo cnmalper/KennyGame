@@ -2,7 +2,7 @@
 
 ## 100 Days Of Swift & iOS
 
-Built a simple "Catch Kenny Game" today. I practiced on Swift with Optionals, Alerts, Timer, UserDefaults and Gesture Recognizers.
+Built a simple "Catch The Kenny Game" today. I practiced on Swift about Optionals, Alerts, Timer, UserDefaults and Gesture Recognizers.
 
 The highest score is saved to UserDefaults.
 
