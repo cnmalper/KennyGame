@@ -6,7 +6,7 @@ Built a simple "Catch The Kenny Game" today. I practiced on Swift about Optional
 
 The highest score is saved to UserDefaults.
 
-If the user's score is greater than 3 Level UP! If it's not user needs to play again. 
+If the user's score is greater than 3, Level UP! If it's not user needs to play again. 
 
 Time is limited for 10 seconds. 
 
